@@ -1,113 +1,113 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<?xml-stylesheet type="text/xsl" href="cd_p2.xsl"?>
+<?xml-stylesheet type="text/xsl" href="cd_p4.xsl"?>
 <Discografica>
     <CD>
         <TituloDelAlbum>Native</TituloDelAlbum>
         <Artista>One Republic</Artista>
-        <TituloCancion>Oh my my</TituloCancion>
-        <TituloCancion>Native</TituloCancion>
-        <TituloCancion>Counting stars</TituloCancion>
-        <TituloCancion>Dreaming out loud</TituloCancion>
-        <TituloCancion>The teen idols</TituloCancion>
+        <TituloCancion duracion="130">Oh my my</TituloCancion>
+        <TituloCancion duracion="134">Native </TituloCancion>
+        <TituloCancion duracion="135">Counting stars </TituloCancion>
+        <TituloCancion duracion="123">Dreaming out loud </TituloCancion>
+        <TituloCancion duracion="156">The teen idols </TituloCancion>
         <SelloDiscografico>Tedder</SelloDiscografico>
         <annoPublicacion>23 de abril de 2013</annoPublicacion>
     </CD>
     <CD>
         <TituloDelAlbum>Re:Creators</TituloDelAlbum>
         <Artista>Hiroyuki Sawano</Artista>
-        <TituloCancion>God of Ink</TituloCancion>
-        <TituloCancion>Re:creators</TituloCancion>
-        <TituloCancion>Re:spends</TituloCancion>
-        <TituloCancion>Re:3343</TituloCancion>
-        <TituloCancion>Hey39-udn</TituloCancion>
+        <TituloCancion duracion="123">God of Ink </TituloCancion>
+        <TituloCancion duracion="146">Re:creators </TituloCancion>
+        <TituloCancion duracion="174">Re:spends </TituloCancion>
+        <TituloCancion duracion="160">Re:3343 </TituloCancion>
+        <TituloCancion duracion="176">Hey39-udn </TituloCancion>
         <SelloDiscografico>Sony</SelloDiscografico>
         <annoPublicacion>14 de junio de 2017</annoPublicacion>
     </CD>
     <CD>
         <TituloDelAlbum>Guilty Crown OST</TituloDelAlbum>
         <Artista>Hiroyuki Sawano</Artista>
-        <TituloCancion>Bios</TituloCancion>
-        <TituloCancion>Alpha</TituloCancion>
-        <TituloCancion>Omega</TituloCancion>
-        <TituloCancion>Friends</TituloCancion>
-        <TituloCancion>Void</TituloCancion>
+        <TituloCancion duracion="134">Bios </TituloCancion>
+        <TituloCancion duracion="145">Alpha </TituloCancion>
+        <TituloCancion duracion="330">Omega </TituloCancion>
+        <TituloCancion duracion="230">Friends </TituloCancion>
+        <TituloCancion duracion="140">Void </TituloCancion>
         <SelloDiscografico>Sony</SelloDiscografico>
         <annoPublicacion>25 de enero de 2012</annoPublicacion>
     </CD>
     <CD>
         <TituloDelAlbum>Eye's</TituloDelAlbum>
         <Artista>Myth And Roid</Artista>
-        <TituloCancion>Tragedy Eternity</TituloCancion>
-        <TituloCancion>LLL</TituloCancion>
-        <TituloCancion>Styx</TituloCancion>
-        <TituloCancion>Theather D</TituloCancion>
-        <TituloCancion>Jingo Jango</TituloCancion>
+        <TituloCancion duracion="130">Tragedy Eternity </TituloCancion>
+        <TituloCancion duracion="110">LLL </TituloCancion>
+        <TituloCancion duracion="130">Styx </TituloCancion>
+        <TituloCancion duracion="120">Theather D </TituloCancion>
+        <TituloCancion duracion="145">Jingo Jango </TituloCancion>
         <SelloDiscografico>Kadokawa</SelloDiscografico>
         <annoPublicacion>26 Abril de 2017</annoPublicacion>
     </CD>
     <CD>
         <TituloDelAlbum>The best of Myth And Roid</TituloDelAlbum>
         <Artista>Myth And Roid</Artista>
-        <TituloCancion>Shadowgraph</TituloCancion>
-        <TituloCancion>LLL</TituloCancion>
-        <TituloCancion>Hydra</TituloCancion>
-        <TituloCancion>Voracity</TituloCancion>
-        <TituloCancion>Jingo Jango</TituloCancion>
+        <TituloCancion duracion="130">Shadowgraph </TituloCancion>
+        <TituloCancion duracion="160">LLL </TituloCancion>
+        <TituloCancion duracion="230">Hydra </TituloCancion>
+        <TituloCancion duracion="230">Voracity </TituloCancion>
+        <TituloCancion duracion="240">Jingo Jango </TituloCancion>
         <SelloDiscografico>Kadokawa</SelloDiscografico>
         <annoPublicacion>4 Marzo de 2020</annoPublicacion>
     </CD>
     <CD>
         <TituloDelAlbum>The best of Myth And Roid 2</TituloDelAlbum>
         <Artista>Myth And Roid</Artista>
-        <TituloCancion>Paradisus Paradoxum</TituloCancion>
-        <TituloCancion>Crazy scary holy fantasy</TituloCancion>
-        <TituloCancion>Remembrance</TituloCancion>
-        <TituloCancion>Panta Rhei</TituloCancion>
-        <TituloCancion>TIT FOR TAT</TituloCancion>
+        <TituloCancion duracion="234">Paradisus Paradoxum </TituloCancion>
+        <TituloCancion duracion="241">Crazy scary holy fantasy </TituloCancion>
+        <TituloCancion duracion="125">Remembrance </TituloCancion>
+        <TituloCancion duracion="253">Panta Rhei </TituloCancion>
+        <TituloCancion duracion="264">TIT FOR TAT </TituloCancion>
         <SelloDiscografico>Kadokawa</SelloDiscografico>
         <annoPublicacion>4 Marzo de 2020</annoPublicacion>
     </CD>
     <CD>
         <TituloDelAlbum>Future is mine</TituloDelAlbum>
         <Artista>Myth And Roid</Artista>
-        <TituloCancion>Future is mine</TituloCancion>
-        <TituloCancion>Reminiscence</TituloCancion>
-        <TituloCancion>Future is mine Instrumental</TituloCancion>
-        <TituloCancion>Reminiscence Instrumental</TituloCancion>
-        <TituloCancion>Sunrise something</TituloCancion>
+        <TituloCancion duracion= "245">Future is mine </TituloCancion>
+        <TituloCancion duracion="278">Reminiscence </TituloCancion>
+        <TituloCancion duracion="290">Future is mine Instrumental </TituloCancion>
+        <TituloCancion duracion="330">Reminiscence Instrumental </TituloCancion>
+        <TituloCancion duracion="130">Sunrise something </TituloCancion>
         <SelloDiscografico>TaWaRa CREATIVE</SelloDiscografico>
         <annoPublicacion>28 de octubre de 2020</annoPublicacion>
     </CD>
     <CD>
         <TituloDelAlbum>Bangarang</TituloDelAlbum>
         <Artista>Skrillex</Artista>
-        <TituloCancion>Right In</TituloCancion>
-        <TituloCancion>Bangarang</TituloCancion>
-        <TituloCancion>Right On Time</TituloCancion>
-        <TituloCancion>Kyoto</TituloCancion>
-        <TituloCancion>Summit</TituloCancion>
+        <TituloCancion duracion="230">Right In </TituloCancion>
+        <TituloCancion duracion="330">Bangarang </TituloCancion>
+        <TituloCancion duracion="120">Right On Time </TituloCancion>
+        <TituloCancion duracion="160">Kyoto </TituloCancion>
+        <TituloCancion duracion="163">Summit </TituloCancion>
         <SelloDiscografico>OWSLA, Big Beat Records y Atlantic Records</SelloDiscografico>
         <annoPublicacion>23 de diciembre de 2011</annoPublicacion>
     </CD>
     <CD>
         <TituloDelAlbum>Jack U</TituloDelAlbum>
         <Artista>Jack U</Artista>
-        <TituloCancion>To U</TituloCancion>
-        <TituloCancion>Mind</TituloCancion>
-        <TituloCancion>Jungle Bae</TituloCancion>
-        <TituloCancion>Take U there</TituloCancion>
-        <TituloCancion>Febreze</TituloCancion>
+        <TituloCancion duracion="130">To U </TituloCancion>
+        <TituloCancion duracion="123">Mind </TituloCancion>
+        <TituloCancion duracion="111">Jungle Bae </TituloCancion>
+        <TituloCancion duracion="234">Take U there </TituloCancion>
+        <TituloCancion duracion="299">Febreze </TituloCancion>
         <SelloDiscografico>Big Beat Records</SelloDiscografico>
         <annoPublicacion>27 de febrero de 2015</annoPublicacion>
     </CD>
     <CD>
         <TituloDelAlbum>LSD</TituloDelAlbum>
         <Artista>LSD</Artista>
-        <TituloCancion>Genius</TituloCancion>
-        <TituloCancion>Mountains</TituloCancion>
-        <TituloCancion>Angel in your Eyes</TituloCancion>
-        <TituloCancion>Thunderclouds</TituloCancion>
-        <TituloCancion>No new friends</TituloCancion>
+        <TituloCancion duracion="233">Genius</TituloCancion>
+        <TituloCancion duracion="224">Mountains </TituloCancion>
+        <TituloCancion duracion="123">Angel in your Eyes </TituloCancion>
+        <TituloCancion duracion="321">Thunderclouds </TituloCancion>
+        <TituloCancion duracion="132">No new friends </TituloCancion>
         <SelloDiscografico>Columbia Records</SelloDiscografico>
         <annoPublicacion>12 de abril de 2019</annoPublicacion>
     </CD>
